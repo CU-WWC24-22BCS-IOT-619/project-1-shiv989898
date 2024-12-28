@@ -15,3 +15,6 @@ CINEMAA is a website where you can stream different movies and tv shows for free
 - Resposive for all devices
 - No Ad
 
+## How TO Run The Program
+
+Run index.html
